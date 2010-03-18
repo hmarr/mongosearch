@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<id>tag:theregister.co.uk,2005:feed/theregister.co.uk/</id>
+<title>The Register</title>
+<link rel="self" type="application/atom+xml" href="http://www.theregister.co.uk/headlines.atom"/>
+<link rel="alternate" type="text/html" href="http://www.theregister.co.uk/"/>
+<rights>Copyright © 2010, Situation Publishing</rights>
+<author>
+<name>Team Register</name>
+<email>webmaster@theregister.co.uk</email>
+<uri>http://www.theregister.co.uk/odds/about/contact/</uri>
+</author>
+<icon>http://www.theregister.co.uk/Design/graphics/icons/favicon.png</icon>
+<subtitle>Biting the hand that feeds IT — sci/tech news and views for the world</subtitle>
+<logo>http://www.theregister.co.uk/Design/graphics/Reg_default/The_Register_r.png</logo>
+<updated>2010-01-24T18:59:18Z</updated>
+<entry>
+<id>tag:theregister.co.uk,2005:story/2010/01/24/body_scanner_fail/</id>
+<updated>2010-01-24T11:02:02Z</updated>
+<link rel="alternate" type="text/html" href="http://go.theregister.com/feed/www.theregister.co.uk/2010/01/24/body_scanner_fail/"/>
+<title type="html">Full-body scanner blind to bomb parts</title>
+<summary type="html" xml:base="http://www.theregister.co.uk/">&lt;h4&gt;Todger, yes. Combustibles, no&lt;/h4&gt; &lt;p&gt;Most of the uproar over full-body scanners has focused on privacy concerns. There's one larger question, however, that hasn't received much scrutiny by the chattering classes: do the damnable things work?…&lt;/p&gt; &lt;p&gt;&lt;p&gt;&lt;a href="http://whitepapers.theregister.co.uk/paper/view/696/smartprotection-whitepaper.pdf?td=rss"&gt;Offloading malware protection to the cloud&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.co.uk,2005:story/2010/01/24/election_tech/</id>
+<updated>2010-01-24T10:02:02Z</updated>
+<link rel="alternate" type="text/html" href="http://go.theregister.com/feed/www.theregister.co.uk/2010/01/24/election_tech/"/>
+<title type="html">Technology vs policy: Election smackdown!</title>
+<summary type="html" xml:base="http://www.theregister.co.uk/">&lt;h4&gt;Twitterized panel says voters will put policy first&lt;/h4&gt; &lt;p&gt;Technology or policy - which will be more influential come this year’s General Election Campaign?…&lt;/p&gt; &lt;p&gt;&lt;p&gt;&lt;a href="http://whitepapers.theregister.co.uk/paper/view/697/wp01-webthreats-080303-uk.pdf?td=rss"&gt;Web threats: Why conventional protection doesn't work&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.co.uk,2005:story/2010/01/24/microsoft_windows_mobile_sinofsky/</id>
+<updated>2010-01-24T06:02:01Z</updated>
+<link rel="alternate" type="text/html" href="http://go.theregister.com/feed/www.theregister.co.uk/2010/01/24/microsoft_windows_mobile_sinofsky/"/>
+<title type="html">Microsoft re-org hints at Windows and Mobile merge</title>
+<summary type="html" xml:base="http://www.theregister.co.uk/">&lt;h4&gt;Time to join the grown-up OS&lt;/h4&gt; &lt;p&gt;Windows Mobile could be destined for life inside Microsoft's main Windows operation following a re-organization of the division it currently calls home.…&lt;/p&gt; &lt;p&gt;&lt;p&gt;&lt;a href="http://whitepapers.theregister.co.uk/paper/view/859/atth0s1n.pdf?td=rss"&gt;The power of collaboration within unified communications&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.co.uk,2005:story/2010/01/23/uk_mobile_internet_data/</id>
+<updated>2010-01-23T10:02:02Z</updated>
+<link rel="alternate" type="text/html" href="http://go.theregister.com/feed/www.reghardware.co.uk/2010/01/23/uk_mobile_internet_data/"/>
+<title type="html">Brits left cold by mobile internet</title>
+<summary type="html" xml:base="http://www.theregister.co.uk/">&lt;h4&gt;Apart from iPhone owners&lt;/h4&gt; &lt;p&gt;More than three-quarters of Britons don't use their phones to access the internet, a study has found. Worse, almost 40 per cent of smartphone owners - the very folk you'd expect &lt;em&gt;would&lt;/em&gt; want to surf the web on the move - have never done so, or gave it a go once but won't do so again.…&lt;/p&gt; &lt;p&gt;&lt;p&gt;&lt;a href="http://whitepapers.theregister.co.uk/paper/view/892/legoland.pdf?td=rss"&gt;Case Study: WhatsUp keeps Legoland turnstyles ringing&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.co.uk,2005:story/2010/01/23/review_sennheiser_rs_160_wireless_headphones/</id>
+<updated>2010-01-23T09:02:02Z</updated>
+<link rel="alternate" type="text/html" href="http://go.theregister.com/feed/www.reghardware.co.uk/2010/01/23/review_sennheiser_rs_160_wireless_headphones/"/>
+<title type="html">Sennheiser RS 160 wireless headphones</title>
+<summary type="html" xml:base="http://www.theregister.co.uk/">&lt;h4&gt;The wandering audiophiles' choice?&lt;/h4&gt; &lt;p&gt;&lt;strong&gt;Review&lt;/strong&gt;  Although Sennheiser does make a few to Bluetooth headsets to keep the mobile phone market happy, it has never been terribly keen on this technology. Indeed, the company has just launched a new range of headphones that use its own ‘Kleer’ wireless protocol.…&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.co.uk,2005:story/2010/01/23/page_and_brin_stock_sell_off/</id>
+<updated>2010-01-23T01:08:19Z</updated>
+<link rel="alternate" type="text/html" href="http://go.theregister.com/feed/www.theregister.co.uk/2010/01/23/page_and_brin_stock_sell_off/"/>
+<title type="html">'Larry and Sergey' to offload 10m Google shares</title>
+<summary type="html" xml:base="http://www.theregister.co.uk/">&lt;h4&gt;AKA $5.5 billion&lt;/h4&gt; &lt;p&gt;Google co-founders Sergey Brin and Larry Page each plan to sell 5 million shares of their common stock in the company over the next five years.…&lt;/p&gt; &lt;p&gt;&lt;p&gt;&lt;a href="http://whitepapers.theregister.co.uk/paper/view/814/oracle-814.pdf?td=rss"&gt;What is your recession sales strategy?&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.co.uk,2005:story/2010/01/23/dnssec_deadline_failure/</id>
+<updated>2010-01-23T00:51:39Z</updated>
+<link rel="alternate" type="text/html" href="http://go.theregister.com/feed/www.theregister.co.uk/2010/01/23/dnssec_deadline_failure/"/>
+<title type="html">80% of fed sites miss DNS Security deadline</title>
+<summary type="html" xml:base="http://www.theregister.co.uk/">&lt;h4&gt;Where's your spoof protection?&lt;/h4&gt; &lt;p&gt;The vast majority of US federal agencies have failed to meet a December 31 deadline to deploy new technology that would make it significantly harder for attackers to spoof their websites, according to &lt;i&gt;Network World&lt;/i&gt;.…&lt;/p&gt; &lt;p&gt;&lt;p&gt;&lt;a href="http://whitepapers.theregister.co.uk/paper/view/814/oracle-814.pdf?td=rss"&gt;What is your recession sales strategy?&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.co.uk,2005:story/2010/01/23/ballner_defaces_macbook_pro/</id>
+<updated>2010-01-23T00:10:12Z</updated>
+<link rel="alternate" type="text/html" href="http://go.theregister.com/feed/www.theregister.co.uk/2010/01/23/ballner_defaces_macbook_pro/"/>
+<title type="html">Steve Ballmer defaces fanboi MacBook</title>
+<summary type="html" xml:base="http://www.theregister.co.uk/">&lt;h4&gt;'Need a new one?'&lt;/h4&gt; &lt;p&gt;Microsoft CEO Steve Ballmer has defaced the MacBook Pro of a young fanboi, and his sarcastic scrawling was caught on video.…&lt;/p&gt; &lt;p&gt;&lt;p&gt;&lt;a href="http://whitepapers.theregister.co.uk/paper/view/892/legoland.pdf?td=rss"&gt;Case Study: WhatsUp keeps Legoland turnstyles ringing&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.co.uk,2005:story/2010/01/22/oracle_phillips_yavaughnie_wilkins/</id>
+<updated>2010-01-22T23:34:45Z</updated>
+<link rel="alternate" type="text/html" href="http://go.theregister.com/feed/www.theregister.co.uk/2010/01/22/oracle_phillips_yavaughnie_wilkins/"/>
+<title type="html">Oracle prez admits 8 1/2 years with billboard woman</title>
+<summary type="html" xml:base="http://www.theregister.co.uk/">&lt;h4&gt;Phillips married to another&lt;/h4&gt; &lt;p&gt;Oracle president Charles Phillips has admitted he had a "serious" eight-and-a-half-year relationship with the woman who appears beside him in &lt;a href="http://www.theregister.co.uk/2010/01/21/oracle_philips_poster/"&gt;billboards littering&lt;/a&gt; New York, San Francisco, and Atlanta.…&lt;/p&gt; &lt;p&gt;&lt;p&gt;&lt;a href="http://whitepapers.theregister.co.uk/paper/view/697/wp01-webthreats-080303-uk.pdf?td=rss"&gt;Web threats: Why conventional protection doesn't work&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.co.uk,2005:story/2010/01/22/twitter_account_hijacking/</id>
+<updated>2010-01-22T21:35:44Z</updated>
+<link rel="alternate" type="text/html" href="http://go.theregister.com/feed/www.theregister.co.uk/2010/01/22/twitter_account_hijacking/"/>
+<title type="html">Amateur goof makes Twitter account hijacking a snap</title>
+<summary type="html" xml:base="http://www.theregister.co.uk/">&lt;h4&gt;Just add XML&lt;/h4&gt; &lt;p&gt;Twitter is sitting on an amateur configuration blunder that makes it trivial for attackers to take control of user accounts, a researcher said Friday.…&lt;/p&gt; &lt;p&gt;&lt;p&gt;&lt;a href="http://whitepapers.theregister.co.uk/paper/view/814/oracle-814.pdf?td=rss"&gt;What is your recession sales strategy?&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.co.uk,2005:story/2010/01/22/nasa_global_warming_warmest_decade/</id>
+<updated>2010-01-22T21:07:17Z</updated>
+<link rel="alternate" type="text/html" href="http://go.theregister.com/feed/www.theregister.co.uk/2010/01/22/nasa_global_warming_warmest_decade/"/>
+<title type="html">NASA pegs Noughties as hottest decade on record</title>
+<summary type="html" xml:base="http://www.theregister.co.uk/">&lt;h4&gt;Global warming 'unabated,' say spacemen&lt;/h4&gt; &lt;p&gt;The past decade was the warmest ever on record, showing that global warming is "continuing unabated," according to a new report from NASA.…&lt;/p&gt; &lt;p&gt;&lt;p&gt;&lt;a href="http://whitepapers.theregister.co.uk/paper/view/696/smartprotection-whitepaper.pdf?td=rss"&gt;Offloading malware protection to the cloud&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.co.uk,2005:story/2010/01/22/netalyzr_debuts/</id>
+<updated>2010-01-22T20:35:51Z</updated>
+<link rel="alternate" type="text/html" href="http://go.theregister.com/feed/www.theregister.co.uk/2010/01/22/netalyzr_debuts/"/>
+<title type="html">Boffins birth uber 'net neutrality' dowser</title>
+<summary type="html" xml:base="http://www.theregister.co.uk/">&lt;h4&gt;Eye on your ISP&lt;/h4&gt; &lt;p&gt;Researchers with the International Computer Science Institute in Berkeley, California have unveiled a completed version of their &lt;a target="_blank" href="http://netalyzr.icsi.berkeley.edu/"&gt;Netalyzr service&lt;/a&gt;, a tool designed to detect when your ISP is interfering with your net connection.…&lt;/p&gt; &lt;p&gt;&lt;p&gt;&lt;a href="http://whitepapers.theregister.co.uk/paper/view/892/legoland.pdf?td=rss"&gt;Case Study: WhatsUp keeps Legoland turnstyles ringing&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.co.uk,2005:story/2010/01/22/tweets_in_space/</id>
+<updated>2010-01-22T20:33:12Z</updated>
+<link rel="alternate" type="text/html" href="http://go.theregister.com/feed/www.theregister.co.uk/2010/01/22/tweets_in_space/"/>
+<title type="html">Web2.0rhea infects International Space Station</title>
+<summary type="html" xml:base="http://www.theregister.co.uk/">&lt;h4&gt;'We r now LIVE tweeting'&lt;/h4&gt; &lt;p&gt;A US astronaut has made a giant leap in social-networking history by sending the first tweet from space.…&lt;/p&gt; &lt;p&gt;&lt;p&gt;&lt;a href="http://whitepapers.theregister.co.uk/paper/view/859/atth0s1n.pdf?td=rss"&gt;The power of collaboration within unified communications&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.co.uk,2005:story/2010/01/22/fujitsu_names_prez/</id>
+<updated>2010-01-22T19:00:54Z</updated>
+<link rel="alternate" type="text/html" href="http://go.theregister.com/feed/www.theregister.co.uk/2010/01/22/fujitsu_names_prez/"/>
+<title type="html">Fujitsu puts systems chief at helm</title>
+<summary type="html" xml:base="http://www.theregister.co.uk/">&lt;h4&gt;Be like Big Blue&lt;/h4&gt; &lt;p&gt;Since last September, struggling IT supplier Fujitsu has been trying to right itself and do so without a president, with double-duty falling on the shoulders of Michiyoshi Mazuka, the company's chairman. But Fujitsu has now tapped an executive who has run several Fujitsu divisions and who currently runs its systems business, hoping to steer the company back to profitability.…&lt;/p&gt; &lt;p&gt;&lt;p&gt;&lt;a href="http://whitepapers.theregister.co.uk/paper/view/696/smartprotection-whitepaper.pdf?td=rss"&gt;Offloading malware protection to the cloud&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.co.uk,2005:story/2010/01/22/facebook_custom_data_center/</id>
+<updated>2010-01-22T18:58:02Z</updated>
+<link rel="alternate" type="text/html" href="http://go.theregister.com/feed/www.theregister.co.uk/2010/01/22/facebook_custom_data_center/"/>
+<title type="html">Facebook busts ground on first custom data center</title>
+<summary type="html" xml:base="http://www.theregister.co.uk/">&lt;h4&gt;Follows Google and Microsoft into chillerless club&lt;/h4&gt; &lt;p&gt;Facebook is building its first custom-designed data center, after years of leasing data center space from third parties.…&lt;/p&gt; &lt;p&gt;&lt;p&gt;&lt;a href="http://whitepapers.theregister.co.uk/paper/view/696/smartprotection-whitepaper.pdf?td=rss"&gt;Offloading malware protection to the cloud&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.co.uk,2005:story/2010/01/22/tsa_screener_joke/</id>
+<updated>2010-01-22T18:17:52Z</updated>
+<link rel="alternate" type="text/html" href="http://go.theregister.com/feed/www.theregister.co.uk/2010/01/22/tsa_screener_joke/"/>
+<title type="html">TSA screener plants powder baggie in flier's luggage</title>
+<summary type="html" xml:base="http://www.theregister.co.uk/">&lt;h4&gt;Not everyone gets the joke&lt;/h4&gt; &lt;p&gt;A screener for the US Transportation Security Administration lost his job after pretending to plant a plastic bag of white powder in the carry-on luggage of a passenger at the Philadelphia International Airport.…&lt;/p&gt; &lt;p&gt;&lt;p&gt;&lt;a href="http://whitepapers.theregister.co.uk/paper/view/859/atth0s1n.pdf?td=rss"&gt;The power of collaboration within unified communications&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.co.uk,2005:story/2010/01/22/gg2_microsoft_training_365/</id>
+<updated>2010-01-22T16:55:49Z</updated>
+<link rel="alternate" type="text/html" href="http://go.theregister.com/feed/www.theregister.co.uk/2010/01/22/gg2_microsoft_training_365/"/>
+<title type="html">A Geeks Guide&lt;small&gt;&lt;sub&gt;2&lt;/sub&gt;&lt;/small&gt;... Microsoft Training 365</title>
+<summary type="html" xml:base="http://www.theregister.co.uk/">&lt;h4&gt;Save over £580 at Reg Books&lt;/h4&gt; &lt;p&gt;&lt;img src="http://books.theregister.co.uk/gg2/images/geek-banner.png" alt="A Geeks Guide 2 Microsoft Training 365" align="right" border="0" height="100" width="292"&gt;&lt;strong class="trailer"&gt;Geeks Guide&lt;sub&gt;2&lt;/sub&gt;&lt;/strong&gt; This week we’re offering &lt;em&gt;Reg&lt;/em&gt; readers a huge introductory discount on a Microsoft Training 365 Technical Subscription. For the next 28 days you will &lt;strong&gt;save over £580&lt;/strong&gt; on this IT pro and developer training hotbed by ordering the subscription via the &lt;a href="http://books.theregister.co.uk/mst365/index.asp?advert=gg2"&gt;Register Books website&lt;/a&gt;.…&lt;/p&gt; &lt;p&gt;&lt;p&gt;&lt;a href="http://whitepapers.theregister.co.uk/paper/view/814/oracle-814.pdf?td=rss"&gt;What is your recession sales strategy?&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.co.uk,2005:story/2010/01/22/aurora_exploit_known_months/</id>
+<updated>2010-01-22T16:46:06Z</updated>
+<link rel="alternate" type="text/html" href="http://go.theregister.com/feed/www.theregister.co.uk/2010/01/22/aurora_exploit_known_months/"/>
+<title type="html">MS knew of Aurora exploit four months before Google attacks</title>
+<summary type="html" xml:base="http://www.theregister.co.uk/">&lt;h4&gt;China light on the matter&lt;/h4&gt; &lt;p&gt;Microsoft first knew of the bug used in the infamous Operation Aurora IE exploits as long ago as August, four months before the vulnerability was used in exploits against Google and other hi-tech firms in December, it has emerged.…&lt;/p&gt; &lt;p&gt;&lt;p&gt;&lt;a href="http://whitepapers.theregister.co.uk/paper/view/696/smartprotection-whitepaper.pdf?td=rss"&gt;Offloading malware protection to the cloud&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.co.uk,2005:story/2010/01/22/sun_schwartz_signoff/</id>
+<updated>2010-01-22T16:43:26Z</updated>
+<link rel="alternate" type="text/html" href="http://go.theregister.com/feed/www.theregister.co.uk/2010/01/22/sun_schwartz_signoff/"/>
+<title type="html">Schwartz puts comforting arm around stricken Sun</title>
+<summary type="html" xml:base="http://www.theregister.co.uk/">&lt;h4&gt;Uses other arm for Oracle fist-pump&lt;/h4&gt; &lt;p&gt;Employees at Sun Microsystems concerned at the prospect of yet more lay-offs at the company will not have been comforted by a company-wide memo from president and CEO Jonathan Schwartz yesterday.…&lt;/p&gt; &lt;p&gt;&lt;p&gt;&lt;a href="http://whitepapers.theregister.co.uk/paper/view/814/oracle-814.pdf?td=rss"&gt;What is your recession sales strategy?&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.co.uk,2005:story/2010/01/22/bt_infinity_p2p/</id>
+<updated>2010-01-22T15:55:34Z</updated>
+<link rel="alternate" type="text/html" href="http://go.theregister.com/feed/www.theregister.co.uk/2010/01/22/bt_infinity_p2p/"/>
+<title type="html">BT to throttle P2P for faster broadband</title>
+<summary type="html" xml:base="http://www.theregister.co.uk/">&lt;h4&gt;Ah well, there's always the post&lt;/h4&gt; &lt;p&gt;Hopes that BT's new faster broadband technology might improve peer-to-peer downloads have faded with the firm's confirmation that subscribers will be subject to the same restricitions as those on less expensive tariffs.…&lt;/p&gt; &lt;p&gt;&lt;p&gt;&lt;a href="http://whitepapers.theregister.co.uk/paper/view/696/smartprotection-whitepaper.pdf?td=rss"&gt;Offloading malware protection to the cloud&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.co.uk,2005:story/2010/01/22/morris_film_trailer/</id>
+<updated>2010-01-22T15:49:36Z</updated>
+<link rel="alternate" type="text/html" href="http://go.theregister.com/feed/www.theregister.co.uk/2010/01/22/morris_film_trailer/"/>
+<title type="html">Chris Morris jihad film good to go</title>
+<summary type="html" xml:base="http://www.theregister.co.uk/">&lt;h4&gt;&lt;em&gt;Four Lions&lt;/em&gt; trailer live&lt;/h4&gt; &lt;p&gt;Chris Morris, the genius-man behind &lt;cite&gt;The Day Today,&lt;/cite&gt; &lt;cite&gt;Brass Eye&lt;/cite&gt; and &lt;cite&gt;Blue Jam&lt;/cite&gt;, has spent the last few years researching and making a film about some hapless British would-be terrorists.…&lt;/p&gt; &lt;p&gt;&lt;p&gt;&lt;a href="http://whitepapers.theregister.co.uk/paper/view/892/legoland.pdf?td=rss"&gt;Case Study: WhatsUp keeps Legoland turnstyles ringing&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.co.uk,2005:story/2010/01/22/nokia_strike/</id>
+<updated>2010-01-22T15:16:35Z</updated>
+<link rel="alternate" type="text/html" href="http://go.theregister.com/feed/www.theregister.co.uk/2010/01/22/nokia_strike/"/>
+<title type="html">Indian Nokia workers ready to up tools</title>
+<summary type="html" xml:base="http://www.theregister.co.uk/">&lt;h4&gt;'Misunderstanding' puts 2000 out on strike&lt;/h4&gt; &lt;p&gt;A two day strike at Nokia India is ending with most staff heading back to work, having been asked nicely and told that management will explain.…&lt;/p&gt; &lt;p&gt;&lt;p&gt;&lt;a href="http://whitepapers.theregister.co.uk/paper/view/814/oracle-814.pdf?td=rss"&gt;What is your recession sales strategy?&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.co.uk,2005:story/2010/01/22/nsa_dismissal/</id>
+<updated>2010-01-22T14:33:08Z</updated>
+<link rel="alternate" type="text/html" href="http://go.theregister.com/feed/www.theregister.co.uk/2010/01/22/nsa_dismissal/"/>
+<title type="html">NSA beats warrantless wiretap rap</title>
+<summary type="html" xml:base="http://www.theregister.co.uk/">&lt;h4&gt;Because it took in a nation of millions&lt;/h4&gt; &lt;p&gt;A Federal judge has dismissed a complaint against the National Security Agency's (NSA) Bush-era warrantless wiretapping programme, prompting suggestions the US government is now able to mount mass surveillance operations unhindered by the courts or constitution.…&lt;/p&gt; &lt;p&gt;&lt;p&gt;&lt;a href="http://whitepapers.theregister.co.uk/paper/view/892/legoland.pdf?td=rss"&gt;Case Study: WhatsUp keeps Legoland turnstyles ringing&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.co.uk,2005:story/2010/01/22/virginia_doc_office_meteorite/</id>
+<updated>2010-01-22T14:30:11Z</updated>
+<link rel="alternate" type="text/html" href="http://go.theregister.com/feed/www.theregister.co.uk/2010/01/22/virginia_doc_office_meteorite/"/>
+<title type="html">Crusty fireball space mango wrecks US doctor's office</title>
+<summary type="html" xml:base="http://www.theregister.co.uk/">&lt;h4&gt;'Fresh, pretty' meteorite blasts startled medics&lt;/h4&gt; &lt;p&gt;A "mango-sized" meteorite crashed into a doctor's office in Virginia this week at more than 200 mph, according to reports. The space rock smashed through the roof, an internal wall and an upper floor before shattering into several pieces on a concrete slab.…&lt;/p&gt; &lt;p&gt;&lt;p&gt;&lt;a href="http://whitepapers.theregister.co.uk/paper/view/814/oracle-814.pdf?td=rss"&gt;What is your recession sales strategy?&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.co.uk,2005:story/2010/01/22/somerset_police_computers/</id>
+<updated>2010-01-22T14:13:06Z</updated>
+<link rel="alternate" type="text/html" href="http://go.theregister.com/feed/www.theregister.co.uk/2010/01/22/somerset_police_computers/"/>
+<title type="html">Avon &amp;amp; Somerset cop computers titsup?</title>
+<summary type="html" xml:base="http://www.theregister.co.uk/">&lt;h4&gt;Tory MP questions use of 30 temp workers&lt;/h4&gt; &lt;p&gt;A South-West Tory MP has well and truly put the cat among the proverbials with a question in the House of Commons about what he claimed is the "collapse of Avon and Somerset police's computer system".…&lt;/p&gt; &lt;p&gt;&lt;p&gt;&lt;a href="http://whitepapers.theregister.co.uk/paper/view/892/legoland.pdf?td=rss"&gt;Case Study: WhatsUp keeps Legoland turnstyles ringing&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.co.uk,2005:story/2010/01/22/number_10_paf_database_petition/</id>
+<updated>2010-01-22T13:59:24Z</updated>
+<link rel="alternate" type="text/html" href="http://go.theregister.com/feed/www.theregister.co.uk/2010/01/22/number_10_paf_database_petition/"/>
+<title type="html">UK government rebuffs cries for free postcode database</title>
+<summary type="html" xml:base="http://www.theregister.co.uk/">&lt;h4&gt;PAF remains fee-based, despite non-profit grumbles&lt;/h4&gt; &lt;p&gt;Number 10 has responded negatively to a &lt;a target="_blank" href="http://petitions.number10.gov.uk/nfppostcodes/#detail"&gt;petition&lt;/a&gt; signed by over 2,000 people that asked the government to convince the Royal Mail to offer a free postcode database to non-profit and community websites.…&lt;/p&gt; &lt;p&gt;&lt;p&gt;&lt;a href="http://whitepapers.theregister.co.uk/paper/view/859/atth0s1n.pdf?td=rss"&gt;The power of collaboration within unified communications&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.co.uk,2005:story/2010/01/22/tor_security_update/</id>
+<updated>2010-01-22T13:46:56Z</updated>
+<link rel="alternate" type="text/html" href="http://go.theregister.com/feed/www.theregister.co.uk/2010/01/22/tor_security_update/"/>
+<title type="html">Tor software updated after hackers crack into systems</title>
+<summary type="html" xml:base="http://www.theregister.co.uk/">&lt;h4&gt;Miscreants remain anonymous&lt;/h4&gt; &lt;p&gt;Privacy-conscious users of the Tor anonymiser network have been urged to upgrade their software, following the discovery of a security breach.…&lt;/p&gt; &lt;p&gt;&lt;p&gt;&lt;a href="http://whitepapers.theregister.co.uk/paper/view/697/wp01-webthreats-080303-uk.pdf?td=rss"&gt;Web threats: Why conventional protection doesn't work&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.co.uk,2005:story/2010/01/22/o2_mobile_landline/</id>
+<updated>2010-01-22T13:20:46Z</updated>
+<link rel="alternate" type="text/html" href="http://go.theregister.com/feed/www.theregister.co.uk/2010/01/22/o2_mobile_landline/"/>
+<title type="html">O2 halts Mobile Landline signups</title>
+<summary type="html" xml:base="http://www.theregister.co.uk/">&lt;h4&gt;You're through to O2... we're busy&lt;/h4&gt; &lt;p&gt;O2 has suspended its popular 'Mobile Landline' service temporarily. The service provides business with a landline number that reroutes to an O2 SIM, without connection charges, an attractive proposition for SMEs.…&lt;/p&gt; &lt;p&gt;&lt;p&gt;&lt;a href="http://whitepapers.theregister.co.uk/paper/view/696/smartprotection-whitepaper.pdf?td=rss"&gt;Offloading malware protection to the cloud&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.co.uk,2005:story/2010/01/22/videogame_rickets/</id>
+<updated>2010-01-22T13:19:31Z</updated>
+<link rel="alternate" type="text/html" href="http://go.theregister.com/feed/www.reghardware.co.uk/2010/01/22/videogame_rickets/"/>
+<title type="html">Rickets rise linked to excessive gaming</title>
+<summary type="html" xml:base="http://www.theregister.co.uk/">&lt;h4&gt;Too much PlayStation, not enough sunshine&lt;/h4&gt; &lt;p&gt;The number of British kids suffering from the deficiency disease rickets is soaring, medical experts have claimed. The cause: too many hours indoors playing videogames.…&lt;/p&gt; &lt;p&gt;&lt;p&gt;&lt;a href="http://whitepapers.theregister.co.uk/paper/view/696/smartprotection-whitepaper.pdf?td=rss"&gt;Offloading malware protection to the cloud&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.co.uk,2005:story/2010/01/22/airport_staff_vetting_objections/</id>
+<updated>2010-01-22T13:03:18Z</updated>
+<link rel="alternate" type="text/html" href="http://go.theregister.com/feed/www.theregister.co.uk/2010/01/22/airport_staff_vetting_objections/"/>
+<title type="html">Airport scanner staff object to vetting</title>
+<summary type="html" xml:base="http://www.theregister.co.uk/">&lt;h4&gt;Nothing to hide - but they'd rather not be checked&lt;/h4&gt; &lt;p&gt;Security staff at Heathrow airport are reportedly furious at the suggestion that any of them would ever use pics taken from the new body scanners for lewd or lascivious purposes.…&lt;/p&gt; &lt;p&gt;&lt;p&gt;&lt;a href="http://whitepapers.theregister.co.uk/paper/view/892/legoland.pdf?td=rss"&gt;Case Study: WhatsUp keeps Legoland turnstyles ringing&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.co.uk,2005:story/2010/01/22/linux_developers_pay/</id>
+<updated>2010-01-22T12:51:27Z</updated>
+<link rel="alternate" type="text/html" href="http://go.theregister.com/feed/www.theregister.co.uk/2010/01/22/linux_developers_pay/"/>
+<title type="html">Linux coders do it for money</title>
+<summary type="html" xml:base="http://www.theregister.co.uk/">&lt;h4&gt;No such thing as a free (software) launch&lt;/h4&gt; &lt;p&gt;Around 75 per cent of Linux developers raked in cash from their code crunching in the past year.…&lt;/p&gt; &lt;p&gt;&lt;p&gt;&lt;a href="http://whitepapers.theregister.co.uk/paper/view/814/oracle-814.pdf?td=rss"&gt;What is your recession sales strategy?&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.co.uk,2005:story/2010/01/22/government_multicloud/</id>
+<updated>2010-01-22T12:34:11Z</updated>
+<link rel="alternate" type="text/html" href="http://go.theregister.com/feed/www.theregister.co.uk/2010/01/22/government_multicloud/"/>
+<title type="html">UK.gov stacking up gang of clouds</title>
+<summary type="html" xml:base="http://www.theregister.co.uk/">&lt;h4&gt;Ain't nothin' but a G-thang&lt;/h4&gt; &lt;p&gt;The government's CIO has said he expects the public sector to use commercial cloud computing services as well as the 'G Cloud'.…&lt;/p&gt; &lt;p&gt;&lt;p&gt;&lt;a href="http://whitepapers.theregister.co.uk/paper/view/859/atth0s1n.pdf?td=rss"&gt;The power of collaboration within unified communications&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.co.uk,2005:story/2010/01/22/hulc_protonex_fuel_cell/</id>
+<updated>2010-01-22T12:32:26Z</updated>
+<link rel="alternate" type="text/html" href="http://go.theregister.com/feed/www.theregister.co.uk/2010/01/22/hulc_protonex_fuel_cell/"/>
+<title type="html">Super-soldier exoskeleton to get 3-day fuel cell powerpack</title>
+<summary type="html" xml:base="http://www.theregister.co.uk/">&lt;h4&gt;Mech-troopers will be able to plug in gadgetry, too&lt;/h4&gt; &lt;p&gt;A radical powered exoskeleton under development for use by the US military is to be fitted with fuel-cell power supplies which will increase its endurance from hours to days - and furnish juice for the burgeoning load of electronics carried by modern soldiers, too.…&lt;/p&gt; &lt;p&gt;&lt;p&gt;&lt;a href="http://whitepapers.theregister.co.uk/paper/view/814/oracle-814.pdf?td=rss"&gt;What is your recession sales strategy?&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.co.uk,2005:story/2010/01/22/review_desktop_pc_hp_touchsmart_600/</id>
+<updated>2010-01-22T12:02:02Z</updated>
+<link rel="alternate" type="text/html" href="http://go.theregister.com/feed/www.reghardware.co.uk/2010/01/22/review_desktop_pc_hp_touchsmart_600/"/>
+<title type="html">HP TouchSmart 600</title>
+<summary type="html" xml:base="http://www.theregister.co.uk/">&lt;h4&gt;Touchscreen iMac wannabee&lt;/h4&gt; &lt;p&gt;&lt;strong&gt;Review&lt;/strong&gt;  Every now and again, reviewing a new PC can be a pleasure rather than a chore. The feeling is not the result of blistering performance or a full set of ticks next to a spec list, but the natural response to using high-quality kit that works exactly as you want it to. HP’s TouchSmart 600 looks beautiful and reveals an approach to product design that suggests the company has thought carefully about every component and feature, and how best to implement them.…&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.co.uk,2005:story/2010/01/22/ofcom_freeview_hd_drm_consultation/</id>
+<updated>2010-01-22T11:48:42Z</updated>
+<link rel="alternate" type="text/html" href="http://go.theregister.com/feed/www.reghardware.co.uk/2010/01/22/ofcom_freeview_hd_drm_consultation/"/>
+<title type="html">Ofcom opens debate on Freeview HD DRM to punters</title>
+<summary type="html" xml:base="http://www.theregister.co.uk/">&lt;h4&gt;The BBC wants it - do you?&lt;/h4&gt; &lt;p&gt;Ofcom has begun asking the public whether the BBC should be allowed to apply DRM to Freeview HD broadcasts.…&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.co.uk,2005:story/2010/01/22/lenovo_lephone/</id>
+<updated>2010-01-22T11:48:13Z</updated>
+<link rel="alternate" type="text/html" href="http://go.theregister.com/feed/www.reghardware.co.uk/2010/01/22/lenovo_lephone/"/>
+<title type="html">Lenovo talks up LePhone launch</title>
+<summary type="html" xml:base="http://www.theregister.co.uk/">&lt;h4&gt;Into China in May - UK later this year?&lt;/h4&gt; &lt;p&gt;Lenovo has reiterated its plan - announced at the Consumer Electronics Shows earlier this month - to launch an Android-based smartphone later this year.…&lt;/p&gt; &lt;p&gt;&lt;p&gt;&lt;a href="http://whitepapers.theregister.co.uk/paper/view/697/wp01-webthreats-080303-uk.pdf?td=rss"&gt;Web threats: Why conventional protection doesn't work&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.co.uk,2005:story/2010/01/22/dowsing_rod_bomb_detector_bust/</id>
+<updated>2010-01-22T11:42:04Z</updated>
+<link rel="alternate" type="text/html" href="http://go.theregister.com/feed/www.theregister.co.uk/2010/01/22/dowsing_rod_bomb_detector_bust/"/>
+<title type="html">Police arrest MD of dowsing-rod 'bomb detector' firm</title>
+<summary type="html" xml:base="http://www.theregister.co.uk/">&lt;h4&gt;Sold 'magic' bomb wands to Iraqi gov for $56,000 each&lt;/h4&gt; &lt;p&gt;A British businessman who has made millions selling dowsing-rod "explosives detectors" to the Iraqi security forces has been arrested on suspicion of fraud.…&lt;/p&gt; &lt;p&gt;&lt;p&gt;&lt;a href="http://whitepapers.theregister.co.uk/paper/view/814/oracle-814.pdf?td=rss"&gt;What is your recession sales strategy?&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.co.uk,2005:story/2010/01/22/byd_e6/</id>
+<updated>2010-01-22T11:38:27Z</updated>
+<link rel="alternate" type="text/html" href="http://go.theregister.com/feed/www.reghardware.co.uk/2010/01/22/byd_e6/"/>
+<title type="html">Billionaire-funded e-car gets showroom date</title>
+<summary type="html" xml:base="http://www.theregister.co.uk/">&lt;h4&gt;The e6, from BYD and Warren Buffet&lt;/h4&gt; &lt;p&gt;&lt;strong&gt;Leccy Tech&lt;/strong&gt;  The electric e6 MPV manufactured by Chinese firm BYD and &lt;a href="http://www.reghardware.co.uk/2008/12/20/byd_f3dm/"&gt;partly funded&lt;/a&gt; by American billionaire Warren Buffet will be launched later this year.…&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.co.uk,2005:story/2010/01/22/irish_board_hack/</id>
+<updated>2010-01-22T11:32:58Z</updated>
+<link rel="alternate" type="text/html" href="http://go.theregister.com/feed/www.theregister.co.uk/2010/01/22/irish_board_hack/"/>
+<title type="html">Irish board hack prompts password reset</title>
+<summary type="html" xml:base="http://www.theregister.co.uk/">&lt;h4&gt;Users thrown into scramble to change up login credentials&lt;/h4&gt; &lt;p&gt;Popular Irish web discussion forum boards.ie has reset user passwords in response to a hack attack that compromised member login credentials.…&lt;/p&gt; &lt;p&gt;&lt;p&gt;&lt;a href="http://whitepapers.theregister.co.uk/paper/view/814/oracle-814.pdf?td=rss"&gt;What is your recession sales strategy?&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.co.uk,2005:story/2010/01/22/mandybill_file_sharing_payoff/</id>
+<updated>2010-01-22T11:04:09Z</updated>
+<link rel="alternate" type="text/html" href="http://go.theregister.com/feed/www.theregister.co.uk/2010/01/22/mandybill_file_sharing_payoff/"/>
+<title type="html">Lords mull Hail Mary penance for file sharers</title>
+<summary type="html" xml:base="http://www.theregister.co.uk/">&lt;h4&gt;Peers discuss costs, ambulance chasing&lt;/h4&gt; &lt;p&gt;&lt;strong&gt;Mandybill&lt;/strong&gt;  The Lords this week discussed new compensation for copyright holders this week - including a voluntary 'Hail Mary fine' payable by file sharers, instead of suspension - but nobody noticed.…&lt;/p&gt; &lt;p&gt;&lt;p&gt;&lt;a href="http://whitepapers.theregister.co.uk/paper/view/814/oracle-814.pdf?td=rss"&gt;What is your recession sales strategy?&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.co.uk,2005:story/2010/01/22/winmo_7_september/</id>
+<updated>2010-01-22T10:48:54Z</updated>
+<link rel="alternate" type="text/html" href="http://go.theregister.com/feed/www.reghardware.co.uk/2010/01/22/winmo_7_september/"/>
+<title type="html">MS to release WinMo 7 to phone makers in September</title>
+<summary type="html" xml:base="http://www.theregister.co.uk/">&lt;h4&gt;Mole also reiterates Zune, Xbox Live link claims&lt;/h4&gt; &lt;p&gt;Windows Mobile 7 will be handed over to smartphone makers in September, to allow them to ready devices based on the operating system for Q4 2010 or Q1 2011.…&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.co.uk,2005:story/2010/01/22/taoist_trucker_jailed/</id>
+<updated>2010-01-22T10:36:26Z</updated>
+<link rel="alternate" type="text/html" href="http://go.theregister.com/feed/www.theregister.co.uk/2010/01/22/taoist_trucker_jailed/"/>
+<title type="html">Poetic justice for HK Taoist truck driver</title>
+<summary type="html" xml:base="http://www.theregister.co.uk/">&lt;h4&gt;Sent down to judge's words of (real) Zen master&lt;/h4&gt; &lt;p&gt;The Hong Kong truck driver who duped an aspiring model into having ritual sex with him has been jailed for six years and nine months, HK's &lt;em&gt;The Standard&lt;/em&gt; reports.…&lt;/p&gt; &lt;p&gt;&lt;p&gt;&lt;a href="http://whitepapers.theregister.co.uk/paper/view/697/wp01-webthreats-080303-uk.pdf?td=rss"&gt;Web threats: Why conventional protection doesn't work&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.co.uk,2005:story/2010/01/22/boring_storage/</id>
+<updated>2010-01-22T10:35:39Z</updated>
+<link rel="alternate" type="text/html" href="http://go.theregister.com/feed/www.theregister.co.uk/2010/01/22/boring_storage/"/>
+<title type="html">Storage is boring, right?</title>
+<summary type="html" xml:base="http://www.theregister.co.uk/">&lt;h4&gt;Understanding the Sherpa layer of IT&lt;/h4&gt; &lt;p&gt;&lt;strong&gt;Workshop&lt;/strong&gt;  In the spirit of calling a spade a spade, it is fair to say that computer storage is generally perceived to be quite dull – in Douglas Adams terms it would qualify as ‘mostly harmless’.…&lt;/p&gt; &lt;p&gt;&lt;p&gt;&lt;a href="http://whitepapers.theregister.co.uk/paper/view/696/smartprotection-whitepaper.pdf?td=rss"&gt;Offloading malware protection to the cloud&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.co.uk,2005:story/2010/01/22/china_google/</id>
+<updated>2010-01-22T10:27:29Z</updated>
+<link rel="alternate" type="text/html" href="http://go.theregister.com/feed/www.theregister.co.uk/2010/01/22/china_google/"/>
+<title type="html">China swings at Clinton as Schmidt fudges exit plan</title>
+<summary type="html" xml:base="http://www.theregister.co.uk/">&lt;h4&gt;When I say pull out, what I mean is....&lt;/h4&gt; &lt;p&gt;China has hit back at criticism from Google and &lt;a href="http://www.theregister.co.uk/2010/01/21/clinton_google/" target="_blank"&gt;Hillary Clinton&lt;/a&gt; accusing them of cultural imperialism by insisting that their view of freedom of information is somehow universal.…&lt;/p&gt; &lt;p&gt;&lt;p&gt;&lt;a href="http://whitepapers.theregister.co.uk/paper/view/696/smartprotection-whitepaper.pdf?td=rss"&gt;Offloading malware protection to the cloud&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.co.uk,2005:story/2010/01/22/hp_smartbook_outed/</id>
+<updated>2010-01-22T10:09:32Z</updated>
+<link rel="alternate" type="text/html" href="http://go.theregister.com/feed/www.reghardware.co.uk/2010/01/22/hp_smartbook_outed/"/>
+<title type="html">FCC website outs HP smartbook</title>
+<summary type="html" xml:base="http://www.theregister.co.uk/">&lt;h4&gt;AirLife to feature always-on HSDPA 3G&lt;/h4&gt; &lt;p&gt;HP has received US Federal Communications Commission approval for a device dubbed the Compaq AirLife 100 and listed on the FCC website as a "smartbook".…&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.co.uk,2005:story/2010/01/22/meyer_talks_sockets/</id>
+<updated>2010-01-22T09:02:01Z</updated>
+<link rel="alternate" type="text/html" href="http://go.theregister.com/feed/www.theregister.co.uk/2010/01/22/meyer_talks_sockets/"/>
+<title type="html">AMD preps for two-fisted two-socket catfight</title>
+<summary type="html" xml:base="http://www.theregister.co.uk/">&lt;h4&gt;Sock it to Intel&lt;/h4&gt; &lt;p&gt;AMD is hoping that its next move in the server space will bring it success in the massive two-socket market.…&lt;/p&gt; &lt;p&gt;&lt;p&gt;&lt;a href="http://whitepapers.theregister.co.uk/paper/view/696/smartprotection-whitepaper.pdf?td=rss"&gt;Offloading malware protection to the cloud&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.co.uk,2005:story/2010/01/22/equality_bill/</id>
+<updated>2010-01-22T09:02:01Z</updated>
+<link rel="alternate" type="text/html" href="http://go.theregister.com/feed/www.theregister.co.uk/2010/01/22/equality_bill/"/>
+<title type="html">The Equality Bill: Hidden agenda?</title>
+<summary type="html" xml:base="http://www.theregister.co.uk/">&lt;h4&gt;Swerving discrimination means amendment pile-up&lt;/h4&gt; &lt;p&gt;&lt;strong&gt;Opinion&lt;/strong&gt;  Employment lawyers and HR professionals would be well advised to keep a close eye on the progress of the Equality Bill, currently being debated in the House of Lords. Initially intended as a legislative sweep-up, it now proposes major policy changes.…&lt;/p&gt; &lt;p&gt;&lt;p&gt;&lt;a href="http://whitepapers.theregister.co.uk/paper/view/696/smartprotection-whitepaper.pdf?td=rss"&gt;Offloading malware protection to the cloud&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.co.uk,2005:story/2010/01/22/public_ict_pressure/</id>
+<updated>2010-01-22T08:02:02Z</updated>
+<link rel="alternate" type="text/html" href="http://go.theregister.com/feed/www.theregister.co.uk/2010/01/22/public_ict_pressure/"/>
+<title type="html">Public sector ICT 'under pressure'</title>
+<summary type="html" xml:base="http://www.theregister.co.uk/">&lt;h4&gt;You don't say&lt;/h4&gt; &lt;p&gt;The Society of IT Management has said that public sector ICT professionals are being squeezed between a cut in budgets and increased demand for their services.…&lt;/p&gt; &lt;p&gt;&lt;p&gt;&lt;a href="http://whitepapers.theregister.co.uk/paper/view/892/legoland.pdf?td=rss"&gt;Case Study: WhatsUp keeps Legoland turnstyles ringing&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.co.uk,2005:story/2010/01/22/quantum_stornext_4/</id>
+<updated>2010-01-22T08:02:02Z</updated>
+<link rel="alternate" type="text/html" href="http://go.theregister.com/feed/www.theregister.co.uk/2010/01/22/quantum_stornext_4/"/>
+<title type="html">Quantum spruces up StorNext filesystem</title>
+<summary type="html" xml:base="http://www.theregister.co.uk/">&lt;h4&gt;DXi influence spreads&lt;/h4&gt; &lt;p&gt;Quantum has pushed out a major StorNext release, adding integrated filesystem deduplication and replication.…&lt;/p&gt; &lt;p&gt;&lt;p&gt;&lt;a href="http://whitepapers.theregister.co.uk/paper/view/696/smartprotection-whitepaper.pdf?td=rss"&gt;Offloading malware protection to the cloud&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;</summary>
+</entry>
+<entry>
+<id>tag:theregister.co.uk,2005:story/2010/01/22/springsource_oracle_sun/</id>
+<updated>2010-01-22T07:02:02Z</updated>
+<link rel="alternate" type="text/html" href="http://go.theregister.com/feed/www.theregister.co.uk/2010/01/22/springsource_oracle_sun/"/>
+<title type="html">Spring daddy looks to Oracle's MySQL commitments</title>
+<summary type="html" xml:base="http://www.theregister.co.uk/">&lt;h4&gt;Comfort guaranteed&lt;/h4&gt; &lt;p&gt;Rod Johnson, open source Java pioneer and general manager of VMware's new SpringSource division, has welcomed the commitment European regulators appear to have squeezed from Oracle over the future of MySQL.…&lt;/p&gt; &lt;p&gt;&lt;p&gt;&lt;a href="http://whitepapers.theregister.co.uk/paper/view/696/smartprotection-whitepaper.pdf?td=rss"&gt;Offloading malware protection to the cloud&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;</summary>
+</entry>
+</feed>

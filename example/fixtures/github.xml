@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/atom10full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
+  <id>tag:github.com,2008:/blog</id>
+  <link type="text/html" href="http://github.com/blog" rel="alternate" />
+  
+  <title>The GitHub Blog</title>
+  <updated>2010-01-22T22:51:13-08:00</updated>
+  <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/atom+xml" href="http://feeds.feedburner.com/github" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="github" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com" /><entry>
+    <id>tag:github.com,2008:Post/592</id>
+    <published>2010-01-22T22:46:12-08:00</published>
+    <updated>2010-01-22T22:51:13-08:00</updated>
+    <link type="text/html" href="http://github.com/blog/592-broadcasts" rel="alternate" />
+    <title>Broadcasts</title>
+    <content type="html">&lt;!-- -*-Markdown-*- --&gt;
+
+
+&lt;p&gt;Over the past couple of days, you may have noticed a new piece of UI, GitHub broadcasts:&lt;/p&gt;
+
+&lt;center&gt;&lt;img src="http://share.kyleneath.com/captures/skitched-20100122-223559.jpg" alt="broadcast image" /&gt;&lt;/center&gt;
+
+
+&lt;p&gt;We'll be using this feature to announce significant new feature additions and changes to GitHub.  Once you've read the broadcast, click hide broadcast and it won't show up until we post a new broadcast.  If you missed broadcasts in between logging in, we'll let you know how many you missed (&lt;em&gt;view (2) new broadcasts&lt;/em&gt;) which you can always see at this link: &lt;a href="http://github.com/blog/broadcasts"&gt;http://github.com/blog/broadcasts&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;In case you've been living under a rock, here's some of the new stuff we've launched at GitHub over the past couple of months:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://github.com/blog/591-explore-github"&gt;Explore GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://github.com/blog/584-notification-improvements"&gt;Notification Improvements&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://github.com/blog/577-improved-commit-diffs"&gt;Improved Commit Diffs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://github.com/blog/571-new-repository-headers"&gt;New Repository Headers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://github.com/blog/559-merge-commits-are-back-and-better-than-ever"&gt;Merge commits are back (and better than ever)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Fun fact: we've launched over 1,200 commits and 130,000 line changes since December. (and that's only to the main GitHub application!)&lt;/p&gt;
+</content>
+    <author>
+      <name>kneath</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Post/591</id>
+    <published>2010-01-21T19:19:19-08:00</published>
+    <updated>2010-01-21T19:26:41-08:00</updated>
+    <link type="text/html" href="http://github.com/blog/591-explore-github" rel="alternate" />
+    <title>Explore GitHub</title>
+    <content type="html">&lt;p&gt;This week &lt;a href="http://github.com/kneath"&gt;kneath&lt;/a&gt; and I (with some help from &lt;a href="http://thechangelog.com"&gt;The Changelog&lt;/a&gt;) rolled out &lt;a href="http://github.com/explore"&gt;Explore GitHub&lt;/a&gt; &amp;#8211; a new page showing trending repositories, repositories recently featured on The Changelog, and recent episodes of their weekly podcast.&lt;/p&gt;
+&lt;div align="center"&gt;&lt;a href="http://github.com/explore"&gt;&lt;img src="http://share.kyleneath.com/captures/Dock-20100121-192200.jpg"/&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;The trending repos are updated every 20 minutes so have fun watching projects climb the charts as they&amp;#8217;re blogged and tweeter about throughout the day.&lt;/p&gt;</content>
+    <author>
+      <name>defunkt</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Post/590</id>
+    <published>2010-01-21T13:54:37-08:00</published>
+    <updated>2010-01-21T13:54:47-08:00</updated>
+    <link type="text/html" href="http://github.com/blog/590-paris-git-training" rel="alternate" />
+    <title>Paris Git Training</title>
+    <content type="html">&lt;p&gt;In Paris? Our very own &lt;a href="http://github.com/schacon"&gt;Scott Chacon&lt;/a&gt;, author of &lt;a href="http://progit.org/book/"&gt;Pro Git&lt;/a&gt; and internationally renowned Git expert, will be teaching a &lt;a href="http://trainings.sensiolabs.com/en/training/git"&gt;Git class&lt;/a&gt; on February 18th, 2010.&lt;/p&gt;
+&lt;div align="center"&gt;&lt;a href="http://trainings.sensiolabs.com/en/training/git"&gt;&lt;img src="http://img.skitch.com/20100121-gamhsjqj25xjwqxx9heneiatu6.jpg"/&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;Check out &lt;a href="http://trainings.sensiolabs.com/en/training/git"&gt;the website&lt;/a&gt; for more information. We&amp;#8217;ll see you there!&lt;/p&gt;</content>
+    <author>
+      <name>defunkt</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Post/589</id>
+    <published>2010-01-21T16:47:24-08:00</published>
+    <updated>2010-01-21T16:47:24-08:00</updated>
+    <link type="text/html" href="http://github.com/blog/589-new-year-new-company" rel="alternate" />
+    <title>New Year, New Company</title>
+    <content type="html">&lt;p&gt;As of January 1, 2010 we&amp;#8217;re operating this site as GitHub, Inc.&lt;/p&gt;
+&lt;p&gt;What does that mean for you? In a word: nothing.&lt;/p&gt;
+&lt;p&gt;We originally incorporated Logical Awesome &lt;span class="caps"&gt;LLC&lt;/span&gt; prior to launching GitHub thinking that it would be just one of a number of brands we were going to release. GitHub took off in a serious way, so instead of continuing to confuse people with an obscure company name, we made the decision to change it to the obvious choice when we converted from a &lt;span class="caps"&gt;LLC&lt;/span&gt; to a C-Corp.&lt;/p&gt;
+&lt;p&gt;Here&amp;#8217;s to another awesome year with your favorite code host!&lt;/p&gt;</content>
+    <author>
+      <name>pjhyett</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Post/588</id>
+    <published>2010-01-20T11:59:35-08:00</published>
+    <updated>2010-01-20T12:01:29-08:00</updated>
+    <link type="text/html" href="http://github.com/blog/588-closing-issues-with-phpunit" rel="alternate" />
+    <title>Closing Issues with PHPUnit</title>
+    <content type="html">&lt;p&gt;&lt;a href="http://github.com/raphaelstolt"&gt;raphaelstolt&lt;/a&gt; shows how to close GitHub Issues using &lt;a href="http://github.com/sebastianbergmann/phpunit"&gt;PHPUnit&lt;/a&gt; in his blog post, &lt;a href="http://raphaelstolt.blogspot.com/2010/01/closing-and-reopening-github-issues-via.html"&gt;Closing and reopening GitHub issues via PHPUnit tests&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The secret? Implementing GitHub_TicketListener.&lt;/p&gt;
+&lt;div align="center"&gt;&lt;a href="http://raphaelstolt.blogspot.com/2010/01/closing-and-reopening-github-issues-via.html"&gt;&lt;img src="http://img.skitch.com/20100120-er3nuye656kk77pd83wibtudw4.png"/&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;Check the &lt;a href="http://raphaelstolt.blogspot.com/2010/01/closing-and-reopening-github-issues-via.html"&gt;post&lt;/a&gt; for the full scoop!&lt;/p&gt;
+&lt;p&gt;(Hat tip: &lt;a href="http://www.phpdeveloper.org/news/13876"&gt;PHPDeveloper&lt;/a&gt;)&lt;/p&gt;</content>
+    <author>
+      <name>defunkt</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Post/587</id>
+    <published>2010-01-19T14:20:18-08:00</published>
+    <updated>2010-01-19T14:24:30-08:00</updated>
+    <link type="text/html" href="http://github.com/blog/587-github-drinkup-wellington-nz-tonight" rel="alternate" />
+    <title>GitHub Drinkup Wellington NZ Tonight!</title>
+    <content type="html">&lt;p&gt;If you happen to find yourself in Wellington, New Zealand (perhaps for LinuxConf AU) then stop by &lt;a href="http://www.themalthouse.co.nz"&gt;The Malt House&lt;/a&gt; tonight (Wednesday the 20th) after 7pm and join Scott Chacon and myself (Tom Preston-Werner) for some drinks. As always, first round&amp;#8217;s on us! Make sure to ask for a GitHub sticker, we have a ton to give away. See you there!&lt;/p&gt;
+&lt;p&gt;The Malt House&lt;br /&gt;
+48 Courtenay Pl&lt;br /&gt;
+Te Aro, Wellington 6011, New Zealand&lt;/p&gt;</content>
+    <author>
+      <name>mojombo</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Post/586</id>
+    <published>2010-01-18T20:05:33-08:00</published>
+    <updated>2010-01-18T20:10:38-08:00</updated>
+    <link type="text/html" href="http://github.com/blog/586-github-rebase-34" rel="alternate" />
+    <title>GitHub Rebase #34</title>
+    <content type="html">&lt;p&gt;It&amp;#8217;s time for Rebase &lt;a href="http://xkcd.com/305/"&gt;#34&lt;/a&gt;! As always, &lt;a href="http://rebase.github.com/howto.html"&gt;suggestions are welcome&lt;/a&gt; if you have a neat project you&amp;#8217;d like to show off.&lt;/p&gt;
+&lt;p style="text-align:center;"&gt;&lt;a href="http://www.raucousrecords.com/rockabilly-cds_21/git-it-cd_3681.aspx"&gt;&lt;img src="http://cloud.github.com/downloads/rebase/rebase.github.com/JaguarsGit.jpg" alt="" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Featured Project&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="http://github.com/jquery/jquery"&gt;jquery&lt;/a&gt;&lt;/strong&gt; is a cross-browser JavaScript library that makes &lt;span class="caps"&gt;DOM&lt;/span&gt; manipulation, simple animation effects, and &lt;span class="caps"&gt;AJAX&lt;/span&gt; simple. It&amp;#8217;s used all over the web, such as on &lt;a href="http://wikipedia.org"&gt;Wikipedia&lt;/a&gt;, &lt;a href="http://whitehouse.gov"&gt;WhiteHouse.gov&lt;/a&gt;, &lt;s&gt;&lt;a href="http://www.tonightshowwithconanobrien.com/"&gt;The Tonight Show with Conan O&amp;#8217;Brien&lt;/a&gt;&lt;/s&gt; and of course, GitHub. Just this past week, version 1.4 &lt;a href="http://jquery14.com/day-01/jquery-14"&gt;was released&lt;/a&gt; and comes packed with too many performance enhancements to list here and new features to boot. Check out the &lt;a href="http://api.jquery.com/category/version/1.4/"&gt;docs&lt;/a&gt; for everything that&amp;#8217;s been added or changed for this release, and the new dynamic &lt;a href="http://api.jquery.com/browser/"&gt;&lt;span class="caps"&gt;API&lt;/span&gt; Browser&lt;/a&gt; too. There&amp;#8217;s also tutorials and videos about the new version and getting involved with the jQuery community at the &lt;a href="http://jquery14.com/"&gt;14 Days of jQuery&lt;/a&gt; celebration site, which is now almost half over! Now that the project is on GitHub, the best part is that you can &lt;a href="http://github.com/jquery/jquery"&gt;fork it&lt;/a&gt; to get started adding your own features or fixes. &lt;code&gt;jQuery.contains(document, "awesome")&lt;/code&gt;&lt;/p&gt;
+&lt;h3&gt;Notably New Projects&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="http://github.com/thumblemonks/jubilator"&gt;jubilator&lt;/a&gt;&lt;/strong&gt; is a new slick way to browse repos that uses the &lt;a href="http://develop.github.com"&gt;GitHub &lt;span class="caps"&gt;API&lt;/span&gt;&lt;/a&gt;. It&amp;#8217;s chock full of some &lt;a href="http://rebase.github.com"&gt;previously-rebased&lt;/a&gt; projects such as  &lt;a href="http://github.com/quirkey/sammy"&gt;Sammy&lt;/a&gt; and &lt;a href="http://github.com/janl/mustache.js"&gt;Mustache.js&lt;/a&gt;. The end result is a &lt;span class="caps"&gt;AJAX&lt;/span&gt; powered repo interface with &lt;a href="http://code.google.com/p/google-code-prettify/"&gt;syntax highlighting&lt;/a&gt; that&amp;#8217;s a lot easier to view files if you don&amp;#8217;t want to clone the project. &lt;a href="http://jubilator.thumblemonks.com/"&gt;Try it out&lt;/a&gt; on your repo!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="http://github.com/bhattisatish/bird-show"&gt;bird-show&lt;/a&gt;&lt;/strong&gt; is a &lt;a href="http://liftweb.net/"&gt;Lift&lt;/a&gt; web app that interacts with the &lt;a href="http://www.flickr.com/services/api/"&gt;Flickr &lt;span class="caps"&gt;API&lt;/span&gt;&lt;/a&gt; to show pictures. Simple, yes, but this is a great starting point for newcomers to Lift (and &lt;a href="http://www.scala-lang.org/"&gt;Scala&lt;/a&gt;!) and comes complete with a &lt;a href="http://www.slideshare.net/dcbriccetti/birdshow-a-lift-app-for-showing-flickr-photos-2720594"&gt;presentation&lt;/a&gt; and &lt;a href="http://www.youtube.com/watch?v=kDVaeYWUwfs"&gt;tutorial video&lt;/a&gt; on the app. You can browse some wildlife photos &lt;a href="http://briccettiphoto.com/"&gt;here on the live site&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="http://github.com/kolber/stacey"&gt;stacey&lt;/a&gt;&lt;/strong&gt; is a lightweight &lt;span class="caps"&gt;PHP&lt;/span&gt; content management system that follows in &lt;a href="http://github.com/mojombo/jekyll"&gt;Jekyll&amp;#8217;s&lt;/a&gt; footsteps and works by generating static files off templates. Drop it onto your server with &lt;span class="caps"&gt;PHP&lt;/span&gt; installed, and you&amp;#8217;re all set to &lt;a href="http://staceyapp.com/documentation/creating-pages/"&gt;start making pages&lt;/a&gt;. It&amp;#8217;s baked in with a &lt;a href="http://staceyapp.com/documentation/editing-templates/"&gt;templating language&lt;/a&gt; that doesn&amp;#8217;t require any &lt;span class="caps"&gt;PHP&lt;/span&gt; knowledge to use efficiently. There&amp;#8217;s already a decent amount of &lt;a href="http://staceyapp.com/installation/"&gt;Stacey&lt;/a&gt; sites online and a &lt;a href="http://getsatisfaction.com/stacey"&gt;growing support forum&lt;/a&gt;. The codebase is quite accessible at around 500 lines, so &lt;a href="http://staceyapp.com"&gt;get hacking!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="http://github.com/hgimenez/vz_analysis"&gt;vz_analysis&lt;/a&gt;&lt;/strong&gt; is a small &lt;a href="http://www.r-project.org/"&gt;R&lt;/a&gt; script that runs through some of the available statistics about &lt;span class="caps"&gt;GDP&lt;/span&gt; and inflation from the author&amp;#8217;s home country of Venezuela. It&amp;#8217;s also a nice little example of using &lt;a href="http://had.co.nz/ggplot2/"&gt;ggplot2&lt;/a&gt;, a great library that can produce nearly any kind of common stats object for your graphs. Check out the &lt;a href="http://github.com/hgimenez/vz_analysis/blob/master/r/econ.r"&gt;source&lt;/a&gt; and maybe see how this can apply to some other &lt;a href="http://www.readwriteweb.com/archives/where_to_find_open_data_on_the.php"&gt;open datasets&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="http://github.com/cmatei/yalfs"&gt;yalfs&lt;/a&gt;&lt;/strong&gt; is yet another Lisp from scratch. Yes, it wouldn&amp;#8217;t be a Rebase without a fun toy programming project, and this one is special since the author is &lt;a href="http://yalfs.blogspot.com/"&gt;blogging the project&amp;#8217;s goals and progress&lt;/a&gt;. This implementation is done in straight C, and it already has some basic datatypes implemented. So it might be a long way from tail recursion, but this is a neat project to keep an eye on if you&amp;#8217;re a language or functional programming geek.&lt;/p&gt;</content>
+    <author>
+      <name>qrush</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Post/585</id>
+    <published>2010-01-18T15:29:29-08:00</published>
+    <updated>2010-01-18T15:30:00-08:00</updated>
+    <link type="text/html" href="http://github.com/blog/585-github-for-the-rest-of-us-screencast" rel="alternate" />
+    <title>GitHub for the Rest of Us Screencast</title>
+    <content type="html">&lt;p&gt;Know someone who could use a clear, hands-on introduction to GitHub? &lt;a href="http://github.com/nettuts"&gt;nettuts&lt;/a&gt; has them covered.&lt;/p&gt;
+&lt;div align="center"&gt;&lt;a href="http://net.tutsplus.com/videos/screencasts/terminal-git-and-github-for-the-rest-of-us-screencast"&gt;&lt;img src="http://img.skitch.com/20100118-mbutj6e8irbau8ms7uach741i1.png"/&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;Their &lt;a href="http://net.tutsplus.com/videos/screencasts/terminal-git-and-github-for-the-rest-of-us-screencast/"&gt;Terminal, Git, and GitHub for the Rest of Us: Screencast&lt;/a&gt; (which compliments their excellent &lt;a href="http://net.tutsplus.com/tutorials/other/getting-the-hang-of-github/"&gt;Getting the Hang of GitHub&lt;/a&gt; tutorial) is a great introduction to Git and GitHub.&lt;/p&gt;</content>
+    <author>
+      <name>defunkt</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Post/584</id>
+    <published>2010-01-17T19:48:37-08:00</published>
+    <updated>2010-01-21T17:55:03-08:00</updated>
+    <link type="text/html" href="http://github.com/blog/584-notification-improvements" rel="alternate" />
+    <title>Notification Improvements</title>
+    <content type="html">&lt;!-- -*-Markdown-*- --&gt;
+
+
+&lt;p&gt;&lt;strong&gt;Update 1/19/2010:&lt;/strong&gt; Page build notifications have been added to the list of notifications you can turn on/off and have moved to the Notifications section as well. Thanks!&lt;/p&gt;
+
+&lt;p&gt;Today we rolled out updates to the messaging &amp;amp; notification systems for GitHub. We've added a couple new features and improved the existing messaging system.&lt;/p&gt;
+
+&lt;h3&gt;Notification Center&lt;/h3&gt;
+
+&lt;p&gt;If you check the &lt;a href="/account"&gt;account settings&lt;/a&gt; page, you'll notice a new tab called &lt;a href="/account/notifications"&gt;Notification Center&lt;/a&gt; that holds preferences for all the emails you get from GitHub.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://share.kyleneath.com/captures/skitched-20100117-193031.gif" alt="Notification Center" /&gt;&lt;/p&gt;
+
+&lt;h3&gt;Commit Comment Notifications&lt;/h3&gt;
+
+&lt;p&gt;We've enabled two new email notifications by default: comments on your commits (where you are listed as an author or committer) and comments on commits in your repositories.  We understand some commits can get noisy, so we added the ability to turn notifications off on a per-commit basis.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://share.kyleneath.com/captures/skitched-20100117-221429.gif" alt="Commit Comments" /&gt;&lt;/p&gt;
+
+&lt;h3&gt;Improved email subjects&lt;/h3&gt;
+
+&lt;p&gt;All of our email notifications were previously "[GitHub] user sent you a message."  They should be considerably more descriptive and thread friendly now.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://share.kyleneath.com/captures/default.data-20100117-194222.gif" alt="Email Subjects" /&gt;&lt;/p&gt;
+
+&lt;h3&gt;Notifications vs Messages&lt;/h3&gt;
+
+&lt;p&gt;We've separated out pull requests and issue comments into a new category called notifications.  Your inbox should now be filled solely with actual messages.  Notifications will show up next to your username (in grey), while the inbox count only refers to actual messages.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://share.kyleneath.com/captures/Commit_cbd162f5526b2bf0e32340964e612acc9f4d29ca_to_kneath_s_watchtower_-_GitHub-20100117-194430.gif" alt="Sample Userbox" /&gt;&lt;/p&gt;
+
+&lt;p&gt;Another small update is that we've added a &lt;em&gt;mark all as read&lt;/em&gt; button to the inbox and notification sections.&lt;/p&gt;
+
+&lt;p&gt;We know there's always room for improvement with our messaging and notifications — but hopefully this is a step in the right direction.  Hope you enjoy!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;P.S.&lt;/strong&gt;:  I'd like to take a moment to thank the fine folks who made &lt;a href="http://mocksmtpapp.com"&gt;MockSMTP&lt;/a&gt;. It made testing these new email notifications &lt;em&gt;so much easier.&lt;/em&gt;  If you're looking for testing app-generated emails locally, check it out.&lt;/p&gt;
+</content>
+    <author>
+      <name>kneath</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Post/583</id>
+    <published>2010-01-15T15:38:40-08:00</published>
+    <updated>2010-01-15T15:38:48-08:00</updated>
+    <link type="text/html" href="http://github.com/blog/583-tinymce-on-github" rel="alternate" />
+    <title>TinyMCE on GitHub</title>
+    <content type="html">&lt;p&gt;&lt;a href="http://tinymce.moxiecode.com/"&gt;TinyMCE&lt;/a&gt;, an &lt;span class="caps"&gt;HTML&lt;/span&gt; &lt;span class="caps"&gt;WYSIWYG&lt;/span&gt; editor written in JavaScript, has moved to GitHub: &lt;a href="http://github.com/tinymce"&gt;http://github.com/tinymce&lt;/a&gt;&lt;/p&gt;
+&lt;div align="center"&gt;&lt;a href="http://github.com/tinymce"&gt;&lt;img src="http://img.skitch.com/20100115-m19rkf3wb3panm2fhnw5gb6h9u.png"/&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;Their &lt;a href="http://blog.moxiecode.com/2010/01/14/tinymce-moved-to-github/"&gt;announcement&lt;/a&gt; lists the main reasons they chose GitHub:&lt;/p&gt;
+&lt;ol&gt;
+	&lt;li&gt;Community&lt;/li&gt;
+	&lt;li&gt;Speed&lt;/li&gt;
+	&lt;li&gt;Ease of access&lt;/li&gt;
+	&lt;li&gt;Flexibility&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Welcome to the party!&lt;/p&gt;</content>
+    <author>
+      <name>defunkt</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Post/581</id>
+    <published>2010-01-14T11:19:30-08:00</published>
+    <updated>2010-01-14T11:27:29-08:00</updated>
+    <link type="text/html" href="http://github.com/blog/581-pages-jekyll-to-v0-5-7-rewrites" rel="alternate" />
+    <title>Pages: Jekyll to v0.5.7 + Rewrites</title>
+    <content type="html">&lt;p&gt;I have a few quick &lt;a href="http://pages.github.com/"&gt;Pages&lt;/a&gt; updates worth noting. &lt;a href="http://wiki.github.com/mojombo/jekyll"&gt;Jekyll&lt;/a&gt; has been upgraded from &lt;strong&gt;v0.5.4&lt;/strong&gt; to &lt;strong&gt;v0.5.7&lt;/strong&gt;. You can find a list of changes in the &lt;a href="http://github.com/mojombo/jekyll/blob/v0.5.7/History.txt"&gt;history file&lt;/a&gt;. And, by popular demand, requests for &lt;code&gt;you.github.com/some/file&lt;/code&gt; are now rewritten to &lt;code&gt;you.github.com/some/file.html&lt;/code&gt; (e.g., &lt;a href="http://schacon.github.com/2008/10/02/a-githubber-now"&gt;this&lt;/a&gt; and &lt;a href="http://schacon.github.com/2008/10/02/a-githubber-now.html"&gt;that&lt;/a&gt;).&lt;/p&gt;</content>
+    <author>
+      <name>rtomayko</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Post/580</id>
+    <published>2010-01-13T14:01:35-08:00</published>
+    <updated>2010-01-14T13:13:07-08:00</updated>
+    <link type="text/html" href="http://github.com/blog/580-github-drinkup-sydney" rel="alternate" />
+    <title>GitHub Drinkup Sydney</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;&lt;span class="caps"&gt;IMPORTANT&lt;/span&gt; &lt;span class="caps"&gt;UPDATE&lt;/span&gt;:&lt;/strong&gt; &lt;em&gt;We had the wrong address listed in the original post. The event is at King St Wharf, &lt;strong&gt;not&lt;/strong&gt; Newtown.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Join Tom and Scott next Monday at 6pm as they stop in Sydney to bring you the joy of the American drinkup on their way to NZ.  Discuss whether code flushes the same direction in the southern hemisphere and if kangaroos really do prefer Git.  Crocodile wrestling and dropbear hunting likely to ensue.&lt;/p&gt;
+&lt;p&gt;Our sysadmin guys, &lt;a href="http://anchor.com.au/"&gt;Anchor&lt;/a&gt;, are co-hosting the meetup, so come say hi to them too!&lt;/p&gt;
+&lt;p&gt;The Facts:&lt;/p&gt;
+&lt;p&gt;6pm, Monday, Jan 18th&lt;br /&gt;
+&lt;a href="http://maps.google.com/maps/place?cid=14348182878035497946&amp;q=james+squire&amp;cd=1&amp;cad=src:pplink&amp;ei=BIhPS4WcFYGYowTHiu2MDQ&amp;sig2=mGRIRYeH9GZm512z8EOmXQ"&gt;James Squire Brewhouse&lt;/a&gt;&lt;br /&gt;
+22 Promenade King St Wharf, Australia&lt;/p&gt;
+&lt;p&gt;&lt;iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?q=james+squire&amp;amp;cd=1&amp;amp;ei=PohPS5uPHp20tQPh0NyiDQ&amp;amp;sig2=mGRIRYeH9GZm512z8EOmXQ&amp;amp;ie=UTF8&amp;amp;hl=en&amp;amp;view=map&amp;amp;cid=14348182878035497946&amp;amp;ved=0CBcQpQY&amp;amp;hq=james+squire&amp;amp;hnear=&amp;amp;t=h&amp;amp;ll=-33.865712,151.202688&amp;amp;spn=0.006236,0.00912&amp;amp;z=16&amp;amp;iwloc=A&amp;amp;output=embed"&gt;&lt;/iframe&gt;&lt;br /&gt;&lt;small&gt;&lt;a href="http://maps.google.com/maps?q=james+squire&amp;amp;cd=1&amp;amp;ei=PohPS5uPHp20tQPh0NyiDQ&amp;amp;sig2=mGRIRYeH9GZm512z8EOmXQ&amp;amp;ie=UTF8&amp;amp;hl=en&amp;amp;view=map&amp;amp;cid=14348182878035497946&amp;amp;ved=0CBcQpQY&amp;amp;hq=james+squire&amp;amp;hnear=&amp;amp;t=h&amp;amp;ll=-33.865712,151.202688&amp;amp;spn=0.006236,0.00912&amp;amp;z=16&amp;amp;iwloc=A&amp;amp;source=embed" style="color:#0000FF;text-align:left"&gt;View Larger Map&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;</content>
+    <author>
+      <name>luckiestmonkey</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Post/579</id>
+    <published>2010-01-13T11:49:35-08:00</published>
+    <updated>2010-01-13T11:49:54-08:00</updated>
+    <link type="text/html" href="http://github.com/blog/579-flash-in-javascript" rel="alternate" />
+    <title>Flash in JavaScript</title>
+    <content type="html">&lt;p&gt;This is pretty great: &lt;a href="http://github.com/tobeytailor/gordon"&gt;Gordon&lt;/a&gt; is an open source Flash implementation in JavaScript by &lt;a href="http://github.com/tobeytailor"&gt;tobeytailor&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Demos: &lt;a href="http://paulirish.com/work/gordon/demos/"&gt;http://paulirish.com/work/gordon/demos/&lt;/a&gt;&lt;/p&gt;
+&lt;div align="center"&gt;&lt;a href="http://paulirish.com/work/gordon/demos"&gt;&lt;img src="http://img.skitch.com/20100113-gc3h7hwadx1wdqn4pb6rhbjk8p.png"/&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;It even works on the iPhone: &lt;a href="http://twitpic.com/xxmi2"&gt;http://twitpic.com/xxmi2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I can&amp;#8217;t wait to try it out. Thanks Tobias and Paul!&lt;/p&gt;</content>
+    <author>
+      <name>defunkt</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Post/578</id>
+    <published>2010-01-13T11:02:54-08:00</published>
+    <updated>2010-01-13T11:26:49-08:00</updated>
+    <link type="text/html" href="http://github.com/blog/578-random-repo" rel="alternate" />
+    <title>Random Repo</title>
+    <content type="html">&lt;p&gt;&lt;a href="http://github.com/joshthecoder"&gt;joshthecoder&lt;/a&gt; said, &amp;quot;It&amp;#8217;d be great to jump to a random repository on GitHub. Like the &amp;#8220;Random article&amp;#8221; feature on Wikipedia.&amp;quot;&lt;/p&gt;
+&lt;p&gt;I said, &amp;#8220;Yes, it would.&amp;#8221;&lt;/p&gt;
+&lt;p&gt;Tada: &lt;a href="http://github.com/repositories/random"&gt;Random Repository&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Drag that link to your bookmark bar and have some fun.&lt;/p&gt;</content>
+    <author>
+      <name>defunkt</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Post/577</id>
+    <published>2010-01-12T03:55:41-08:00</published>
+    <updated>2010-01-21T20:48:45-08:00</updated>
+    <link type="text/html" href="http://github.com/blog/577-improved-commit-diffs" rel="alternate" />
+    <title>Improved Commit Diffs</title>
+    <content type="html">&lt;p&gt;We recently rolled out a bunch of improvements to commit pages to make reviewing diffs a bit more pleasant.&lt;/p&gt;
+&lt;h3&gt;Diffstats&lt;/h3&gt;
+&lt;p&gt;Diffstat style histograms of insertions and deletions for each file are now displayed on commit pages. This is useful for getting a high level feel for the impact of a commit:&lt;/p&gt;
+&lt;div&gt;
+&lt;p&gt;&lt;a href="http://github.com/antirez/redis/commit/163f4b8cb25ca46c1482bb6b4ca9c4c9d0f15dd4"
+&gt;&lt;img width='546' src="http://img.skitch.com/20100110-ccencna7kdyk1xmyfbn3et82n.png" alt="sexy diffstat"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;The diffstat display is similar in spirit to the output generated by &lt;code&gt;git diff --stat&lt;/code&gt;: a numeric representing the total number of changed lines (insertions + deletions) followed by a simple visualization of the insertion to deletion ratio.&lt;/p&gt;
+&lt;h3&gt;Rename Detection&lt;/h3&gt;
+&lt;p&gt;Git doesn&amp;#8217;t track file renames, but it does support heuristic detection of renamed files when performing &lt;code&gt;diff&lt;/code&gt; and &lt;code&gt;log&lt;/code&gt; operations. We&amp;#8217;ve enabled it. The file list now displays a single line for renames instead of separate file add/remove lines:&lt;/p&gt;
+&lt;div&gt;
+&lt;p&gt;&lt;a href="http://github.com/ry/node/commit/a5df0f6a65edda02aa70732de0321fae188d03ae"
+&gt;&lt;img width='546' src="http://img.skitch.com/20100110-ncxuu6ff5gqkb3m8sk4fsu4b61.png" alt="diffstat + rename detection"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;While it&amp;#8217;s nice to see renames reported as such in the file list, the larger benefit comes with the actual diff. Without rename detection, commits with even a small number of renamed files can generate large and noisy diffs. The entire file contents is displayed twice: first with all deleted lines and then again with all added lines. These same diffs are reduced down to pure signal with rename detection enabled because only the lines modified between the two files are shown:&lt;/p&gt;
+&lt;div&gt;
+&lt;p&gt;&lt;a href="http://github.com/ry/node/commit/a5df0f6a65edda02aa70732de0321fae188d03ae#diff-2"
+&gt;&lt;img width='546' src="http://img.skitch.com/20100110-8ewn1kyf5qy4rtyq4w368rie77.png" alt="diffs + rename detection"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;See the &lt;code&gt;-M&lt;/code&gt; option to &lt;code&gt;git-diff(1)&lt;/code&gt; for information on using rename detection from the command line.&lt;/p&gt;
+&lt;h3&gt;Added / Removed Files&lt;/h3&gt;
+&lt;p&gt;Previously, files added or removed in a commit were shown in the file list at the top of commit pages but the actual diffs were omitted. This was a simple guard against &lt;em&gt;Insanely Large Diffs That Crashed Browsers&lt;/em&gt; but had a few notable drawbacks:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;It was easy to miss important changes introduced by added or removed files when reviewing commits.&lt;/li&gt;
+	&lt;li&gt;It wasn&amp;#8217;t possible to comment on specific lines in added or removed files.&lt;/li&gt;
+	&lt;li&gt;It didn&amp;#8217;t always avoid large diffs. Consider cases like &lt;span class="caps"&gt;SQL&lt;/span&gt; database dumps where each line of a large generated file is modified as part of an otherwise tiny commit. Omitting added/removed files gave no guarantee that diffs would not exceed a reasonable size.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;According to &lt;a href="http://corte.si//posts/code/devsurvey/index.html"&gt;Aldo Cortesi&amp;#8217;s GitHub project analysis&lt;/a&gt;, the average commit touches about 4 files and 19 lines of code. We felt that commit pages needed to do a better job showing all pertinent information on these common case commits, so from now on you&amp;#8217;ll see diffs for added and removed files:&lt;/p&gt;
+&lt;div&gt;
+&lt;p&gt;&lt;a href="http://github.com/defunkt/rip/commit/d21786afe30fac67f006ae033d3b69f204f39c82#bin/ripenv-list-P11"
+&gt;&lt;img width='546' src="http://img.skitch.com/20100110-f3u28yk44bgsec1aqpw191ssf.png" alt="comment on added files"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;h3&gt;Large Diffs&lt;/h3&gt;
+&lt;p&gt;Displaying added/removed files left the problem of how to deal with very large diffs. What we came up with is a set of rules for omitting portions of large diffs that ensures a sane upper bound on overall diff size. It works something like this:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;Diffs are not shown for any individual file with more than 300 changed lines (this includes modified files as well as added/removed files).&lt;/li&gt;
+	&lt;li&gt;No more than 150 total file diffs are displayed.&lt;/li&gt;
+	&lt;li&gt;No more than 3,000 total changed lines are shown across all diffs.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;While we expect to tune these numbers over the coming weeks, the result so far has been diffs that show more of what you typically want to see and less of what you don&amp;#8217;t.&lt;/p&gt;</content>
+    <author>
+      <name>rtomayko</name>
+    </author>
+  </entry>
+</feed>
